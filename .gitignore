@@ -9,6 +9,9 @@ dist-single/
 # local test decks — never committed (may contain confidential content)
 testing/
 
+# classroom server: real student/teacher work, never committed
+server/classroom/data/
+
 # os cruft
 .DS_Store
 *.tsbuildinfo

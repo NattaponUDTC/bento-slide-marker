@@ -1,0 +1,10 @@
+{
+  "name": "bento-classroom-server",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "No-login gallery + autosave backend for using bento/slides in a school lab.",
+  "scripts": {
+    "start": "node index.mjs"
+  }
+}
